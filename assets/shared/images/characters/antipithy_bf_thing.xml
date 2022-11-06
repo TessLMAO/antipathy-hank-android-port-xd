@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="antipithy_bf_thing.png">
+	
+	
+	<SubTexture name="cheer0000" x="5" y="5" width="225" height="226" pivotX="146.9" pivotY="19.65" />
+	<SubTexture name="cheer0001" x="5" y="5" width="225" height="226" />
+	<SubTexture name="cheer0002" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0003" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0004" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0005" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0006" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0007" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0008" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0009" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0010" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0011" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0012" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0013" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0014" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0015" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0016" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0017" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0018" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0019" x="235" y="5" width="225" height="226" />
+	<SubTexture name="cheer0020" x="235" y="5" width="225" height="226" />
+	<SubTexture name="idle0000" x="465" y="5" width="231" height="218" pivotX="119.85" pivotY="10.8" />
+	<SubTexture name="idle0001" x="701" y="5" width="231" height="218" />
+	<SubTexture name="idle0002" x="938" y="5" width="231" height="218" />
+	<SubTexture name="idle0003" x="1174" y="5" width="231" height="218" />
+	<SubTexture name="idle0004" x="1411" y="5" width="231" height="218" />
+	<SubTexture name="idle0005" x="1647" y="5" width="231" height="218" />
+	<SubTexture name="idle0006" x="5" y="236" width="231" height="218" />
+	<SubTexture name="idle0007" x="241" y="236" width="231" height="218" />
+	<SubTexture name="idle0008" x="478" y="236" width="231" height="218" />
+	<SubTexture name="idle0009" x="714" y="236" width="231" height="218" />
+	<SubTexture name="idle0010" x="951" y="236" width="231" height="218" />
+	<SubTexture name="idle0011" x="1187" y="236" width="231" height="218" />
+	<SubTexture name="idle0012" x="1424" y="236" width="231" height="218" />
+	<SubTexture name="idle0013" x="1660" y="236" width="231" height="218" />
+	<SubTexture name="idle0014" x="5" y="459" width="231" height="218" />
+	<SubTexture name="idle0015" x="241" y="459" width="231" height="218" />
+	<SubTexture name="idle0016" x="478" y="459" width="231" height="218" />
+	<SubTexture name="idle0017" x="1424" y="236" width="231" height="218" />
+	<SubTexture name="idle0018" x="1660" y="236" width="231" height="218" />
+	<SubTexture name="idle0019" x="5" y="459" width="231" height="218" />
+	<SubTexture name="idle0020" x="241" y="459" width="231" height="218" />
+	<SubTexture name="idle0021" x="478" y="459" width="231" height="218" />
+	<SubTexture name="idle0022" x="1424" y="236" width="231" height="218" />
+	<SubTexture name="idle0023" x="1660" y="236" width="231" height="218" />
+	<SubTexture name="idle0024" x="714" y="459" width="231" height="218" />
+	<SubTexture name="idle0025" x="951" y="459" width="231" height="218" />
+	<SubTexture name="idle0026" x="1187" y="459" width="231" height="218" />
+	<SubTexture name="miss0000" x="1424" y="459" width="223" height="218" pivotX="145.05" pivotY="3.55" />
+	<SubTexture name="miss0001" x="1652" y="459" width="223" height="218" />
+	<SubTexture name="miss0002" x="5" y="682" width="223" height="218" />
+	<SubTexture name="miss0003" x="233" y="682" width="223" height="218" />
+	<SubTexture name="miss0004" x="462" y="682" width="223" height="218" />
+	<SubTexture name="miss0005" x="690" y="682" width="223" height="218" />
+	<SubTexture name="miss0006" x="919" y="682" width="223" height="218" />
+	<SubTexture name="miss0007" x="1147" y="682" width="223" height="218" />
+	<SubTexture name="miss0008" x="1376" y="682" width="223" height="218" />
+	<SubTexture name="miss0009" x="1604" y="682" width="223" height="218" />
+	<SubTexture name="miss0010" x="5" y="905" width="223" height="218" />
+	<SubTexture name="miss0011" x="233" y="905" width="223" height="218" />
+	<SubTexture name="miss0012" x="462" y="905" width="223" height="218" />
+	<SubTexture name="miss0013" x="462" y="905" width="223" height="218" />
+	<SubTexture name="miss0014" x="233" y="905" width="223" height="218" />
+	<SubTexture name="miss0015" x="233" y="905" width="223" height="218" />
+	<SubTexture name="miss0016" x="462" y="905" width="223" height="218" />
+	<SubTexture name="miss0017" x="462" y="905" width="223" height="218" />
+	<SubTexture name="miss0018" x="233" y="905" width="223" height="218" />
+	<SubTexture name="miss0019" x="233" y="905" width="223" height="218" />
+	<SubTexture name="miss0020" x="462" y="905" width="223" height="218" />
+	<SubTexture name="miss0021" x="462" y="905" width="223" height="218" />
+</TextureAtlas>

@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hank-death.png">
+	
+	
+	<SubTexture name="hank button bopping lole instance 10000" x="0" y="0" width="199" height="145" frameX="-26" frameY="-26" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10001" x="201" y="0" width="201" height="147" frameX="-25" frameY="-25" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10002" x="404" y="0" width="203" height="149" frameX="-24" frameY="-24" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10003" x="609" y="0" width="205" height="151" frameX="-23" frameY="-23" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10004" x="816" y="0" width="207" height="153" frameX="-22" frameY="-22" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10005" x="1025" y="0" width="209" height="155" frameX="-21" frameY="-21" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10006" x="1236" y="0" width="212" height="157" frameX="-20" frameY="-19" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10007" x="1450" y="0" width="214" height="159" frameX="-19" frameY="-18" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10008" x="1665" y="0" width="216" height="161" frameX="-18" frameY="-17" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10009" x="0" y="163" width="218" height="163" frameX="-17" frameY="-16" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10010" x="220" y="163" width="220" height="165" frameX="-16" frameY="-15" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10011" x="441" y="163" width="222" height="167" frameX="-15" frameY="-14" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10012" x="665" y="163" width="224" height="169" frameX="-14" frameY="-13" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10013" x="890" y="163" width="226" height="171" frameX="-13" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10014" x="1118" y="163" width="228" height="173" frameX="-12" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10015" x="1347" y="163" width="230" height="175" frameX="-11" frameY="-11" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10016" x="1579" y="163" width="232" height="177" frameX="-10" frameY="-10" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10017" x="1812" y="163" width="234" height="179" frameX="-9" frameY="-9" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10018" x="0" y="344" width="236" height="181" frameX="-8" frameY="-8" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10019" x="238" y="344" width="238" height="183" frameX="-7" frameY="-7" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10020" x="477" y="344" width="240" height="185" frameX="-6" frameY="-6" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10021" x="719" y="344" width="242" height="187" frameX="-5" frameY="-5" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10022" x="962" y="344" width="244" height="189" frameX="-4" frameY="-4" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10023" x="1208" y="344" width="246" height="191" frameX="-3" frameY="-3" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10024" x="1455" y="344" width="248" height="193" frameX="-2" frameY="-2" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10025" x="1705" y="344" width="250" height="196" />
+	<SubTexture name="hank button bopping lole instance 10026" x="1455" y="344" width="248" height="193" frameX="-1" frameY="-1" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10027" x="0" y="541" width="246" height="192" frameX="-2" frameY="-2" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10028" x="962" y="344" width="244" height="189" frameX="-3" frameY="-3" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10029" x="248" y="541" width="242" height="188" frameX="-4" frameY="-4" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10030" x="477" y="344" width="240" height="185" frameX="-5" frameY="-5" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10031" x="492" y="541" width="238" height="184" frameX="-6" frameY="-6" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10032" x="0" y="344" width="236" height="181" frameX="-7" frameY="-7" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10033" x="732" y="541" width="234" height="180" frameX="-8" frameY="-8" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10034" x="1812" y="163" width="234" height="179" frameX="-9" frameY="-9" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10035" x="1347" y="163" width="230" height="175" frameX="-10" frameY="-10" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10036" x="968" y="541" width="229" height="174" frameX="-11" frameY="-11" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10037" x="890" y="163" width="226" height="171" frameX="-12" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10038" x="1199" y="541" width="225" height="170" frameX="-13" frameY="-13" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10039" x="441" y="163" width="222" height="167" frameX="-14" frameY="-14" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10040" x="1425" y="541" width="221" height="166" frameX="-15" frameY="-15" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10041" x="0" y="163" width="218" height="163" frameX="-16" frameY="-16" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10042" x="1648" y="541" width="217" height="162" frameX="-17" frameY="-17" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10043" x="1665" y="0" width="216" height="161" frameX="-18" frameY="-18" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10044" x="1450" y="0" width="214" height="159" frameX="-19" frameY="-19" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10045" x="1236" y="0" width="212" height="157" frameX="-20" frameY="-20" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10046" x="1025" y="0" width="209" height="155" frameX="-21" frameY="-21" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10047" x="816" y="0" width="207" height="153" frameX="-22" frameY="-22" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10048" x="609" y="0" width="205" height="151" frameX="-23" frameY="-23" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10049" x="404" y="0" width="203" height="149" frameX="-24" frameY="-24" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10050" x="201" y="0" width="201" height="147" frameX="-25" frameY="-25" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10051" x="0" y="0" width="199" height="145" frameX="-26" frameY="-26" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10052" x="201" y="0" width="201" height="147" frameX="-25" frameY="-25" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10053" x="404" y="0" width="203" height="149" frameX="-24" frameY="-24" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10054" x="609" y="0" width="205" height="151" frameX="-23" frameY="-23" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10055" x="816" y="0" width="207" height="153" frameX="-22" frameY="-22" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10056" x="1025" y="0" width="209" height="155" frameX="-21" frameY="-21" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10057" x="1236" y="0" width="212" height="157" frameX="-20" frameY="-19" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10058" x="1450" y="0" width="214" height="159" frameX="-19" frameY="-18" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10059" x="1665" y="0" width="216" height="161" frameX="-18" frameY="-17" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10060" x="0" y="163" width="218" height="163" frameX="-17" frameY="-16" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10061" x="220" y="163" width="220" height="165" frameX="-16" frameY="-15" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10062" x="441" y="163" width="222" height="167" frameX="-15" frameY="-14" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10063" x="665" y="163" width="224" height="169" frameX="-14" frameY="-13" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10064" x="890" y="163" width="226" height="171" frameX="-13" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10065" x="1118" y="163" width="228" height="173" frameX="-12" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10066" x="1347" y="163" width="230" height="175" frameX="-11" frameY="-11" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10067" x="1579" y="163" width="232" height="177" frameX="-10" frameY="-10" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10068" x="1812" y="163" width="234" height="179" frameX="-9" frameY="-9" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10069" x="0" y="344" width="236" height="181" frameX="-8" frameY="-8" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10070" x="238" y="344" width="238" height="183" frameX="-7" frameY="-7" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10071" x="477" y="344" width="240" height="185" frameX="-6" frameY="-6" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10072" x="719" y="344" width="242" height="187" frameX="-5" frameY="-5" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10073" x="962" y="344" width="244" height="189" frameX="-4" frameY="-4" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10074" x="1208" y="344" width="246" height="191" frameX="-3" frameY="-3" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10075" x="1455" y="344" width="248" height="193" frameX="-2" frameY="-2" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10076" x="1705" y="344" width="250" height="196" />
+	<SubTexture name="hank button bopping lole instance 10077" x="1455" y="344" width="248" height="193" frameX="-1" frameY="-1" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10078" x="0" y="541" width="246" height="192" frameX="-2" frameY="-2" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10079" x="962" y="344" width="244" height="189" frameX="-3" frameY="-3" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10080" x="248" y="541" width="242" height="188" frameX="-4" frameY="-4" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10081" x="719" y="344" width="242" height="187" frameX="-5" frameY="-5" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10082" x="492" y="541" width="238" height="184" frameX="-6" frameY="-6" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10083" x="238" y="344" width="238" height="183" frameX="-7" frameY="-7" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10084" x="732" y="541" width="234" height="180" frameX="-8" frameY="-8" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10085" x="1812" y="163" width="234" height="179" frameX="-9" frameY="-9" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10086" x="1579" y="163" width="232" height="177" frameX="-10" frameY="-10" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10087" x="968" y="541" width="229" height="174" frameX="-11" frameY="-11" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10088" x="1118" y="163" width="228" height="173" frameX="-12" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10089" x="1199" y="541" width="225" height="170" frameX="-13" frameY="-12" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10090" x="665" y="163" width="224" height="169" frameX="-14" frameY="-13" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10091" x="441" y="163" width="222" height="167" frameX="-15" frameY="-14" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10092" x="220" y="163" width="220" height="165" frameX="-15" frameY="-15" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10093" x="0" y="163" width="218" height="163" frameX="-16" frameY="-16" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10094" x="1665" y="0" width="216" height="161" frameX="-17" frameY="-17" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10095" x="0" y="734" width="214" height="160" frameX="-18" frameY="-18" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10096" x="1450" y="0" width="214" height="159" frameX="-19" frameY="-19" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10097" x="216" y="734" width="211" height="156" frameX="-20" frameY="-20" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10098" x="1025" y="0" width="209" height="155" frameX="-21" frameY="-21" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10099" x="816" y="0" width="207" height="153" frameX="-22" frameY="-22" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10100" x="609" y="0" width="205" height="151" frameX="-23" frameY="-23" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10101" x="404" y="0" width="203" height="149" frameX="-24" frameY="-24" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10102" x="201" y="0" width="201" height="147" frameX="-25" frameY="-25" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank button bopping lole instance 10103" x="0" y="0" width="199" height="145" frameX="-26" frameY="-26" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank shits himself instance 10000" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10001" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10002" x="475" y="734" width="48" height="6" frameX="-74" frameY="-81" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10003" x="475" y="734" width="48" height="6" frameX="-74" frameY="-81" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10004" x="524" y="734" width="44" height="23" frameX="-76" frameY="-65" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10005" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10006" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10007" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10008" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10009" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10010" x="569" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10011" x="616" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10012" x="662" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10013" x="708" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10014" x="708" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10015" x="754" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10016" x="801" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10017" x="847" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10018" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10019" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10020" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10021" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10022" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10023" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10024" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10025" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10026" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10027" x="429" y="734" width="45" height="22" frameX="-76" frameY="-66" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10028" x="893" y="734" width="46" height="4" frameX="-75" frameY="-83" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10029" x="941" y="734" width="61" height="19" frameX="-60" frameY="-68" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10030" x="1004" y="734" width="67" height="42" frameX="-52" frameY="-55" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10031" x="1073" y="734" width="64" height="33" frameX="-56" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10032" x="1073" y="734" width="64" height="33" frameX="-56" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10033" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10034" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10035" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10036" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10037" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10038" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10039" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10040" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10041" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10042" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10043" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10044" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10045" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10046" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10047" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10048" x="1138" y="734" width="65" height="34" frameX="-55" frameY="-59" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10049" x="1205" y="734" width="44" height="31" frameX="-77" frameY="-58" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10050" x="1250" y="734" width="59" height="39" frameX="-69" frameY="-53" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10051" x="1311" y="734" width="93" height="41" frameX="-48" frameY="-49" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10052" x="1405" y="734" width="106" height="44" frameX="-46" frameY="-48" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10053" x="1512" y="734" width="111" height="46" frameX="-45" frameY="-47" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10054" x="1625" y="734" width="115" height="58" frameX="-43" frameY="-46" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10055" x="1741" y="734" width="116" height="64" frameX="-43" frameY="-50" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10056" x="1858" y="734" width="99" height="67" frameX="-47" frameY="-54" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10057" x="0" y="896" width="107" height="59" frameX="-45" frameY="-82" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10058" x="110" y="896" width="174" height="134" frameX="-13" frameY="-6" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10059" x="285" y="896" width="175" height="135" frameX="-13" frameY="-6" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10060" x="462" y="896" width="175" height="135" frameX="-12" frameY="-6" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10061" x="639" y="896" width="176" height="135" frameX="-12" frameY="-6" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10062" x="817" y="896" width="177" height="136" frameX="-11" frameY="-6" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10063" x="995" y="896" width="178" height="136" frameX="-11" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10064" x="1175" y="896" width="179" height="136" frameX="-11" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10065" x="1355" y="896" width="179" height="136" frameX="-10" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10066" x="1536" y="896" width="180" height="137" frameX="-10" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10067" x="1718" y="896" width="181" height="137" frameX="-9" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10068" x="0" y="1035" width="182" height="137" frameX="-9" frameY="-5" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10069" x="184" y="1035" width="183" height="138" frameX="-9" frameY="-4" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10070" x="368" y="1035" width="183" height="138" frameX="-8" frameY="-4" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10071" x="553" y="1035" width="184" height="139" frameX="-8" frameY="-4" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10072" x="739" y="1035" width="185" height="139" frameX="-7" frameY="-4" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10073" x="926" y="1035" width="186" height="139" frameX="-7" frameY="-4" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10074" x="1113" y="1035" width="187" height="140" frameX="-7" frameY="-3" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10075" x="1302" y="1035" width="187" height="140" frameX="-6" frameY="-3" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10076" x="1491" y="1035" width="188" height="140" frameX="-6" frameY="-3" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10077" x="1681" y="1035" width="189" height="141" frameX="-6" frameY="-3" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10078" x="0" y="1177" width="190" height="141" frameX="-5" frameY="-3" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10079" x="192" y="1177" width="191" height="141" frameX="-5" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10080" x="384" y="1177" width="191" height="142" frameX="-4" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10081" x="577" y="1177" width="192" height="142" frameX="-4" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10082" x="771" y="1177" width="193" height="142" frameX="-4" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10083" x="965" y="1177" width="194" height="143" frameX="-3" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10084" x="1161" y="1177" width="195" height="143" frameX="-3" frameY="-2" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10085" x="1357" y="1177" width="195" height="143" frameX="-2" frameY="-1" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10086" x="1554" y="1177" width="196" height="144" frameX="-2" frameY="-1" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10087" x="1752" y="1177" width="197" height="144" frameX="-2" frameY="-1" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10088" x="0" y="1323" width="198" height="144" frameX="-1" frameY="-1" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10089" x="200" y="1323" width="198" height="145" frameX="-1" frameY="-1" frameWidth="199" frameHeight="145" />
+	<SubTexture name="hank shits himself instance 10090" x="0" y="0" width="199" height="145" frameX="0" frameY="0" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank shits himself instance 10091" x="0" y="0" width="199" height="145" frameX="0" frameY="0" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank slice instance 10000" x="0" y="0" width="199" height="145" frameX="0" frameY="-1" frameWidth="250" frameHeight="196" />
+	<SubTexture name="hank slice instance 10001" x="399" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10002" x="600" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10003" x="800" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10004" x="1001" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10005" x="1201" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10006" x="1402" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10007" x="1602" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10008" x="1803" y="1323" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10009" x="0" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10010" x="201" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10011" x="401" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10012" x="602" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10013" x="802" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10014" x="1003" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10015" x="1203" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10016" x="1404" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10017" x="1604" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10018" x="1805" y="1470" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10019" x="0" y="1616" width="199" height="145" frameX="0" frameY="-1" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10020" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10021" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10022" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10023" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10024" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10025" x="201" y="1616" width="39" height="15" frameX="-81" frameY="-69" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10026" x="0" y="1616" width="199" height="145" frameX="-79" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10027" x="241" y="1616" width="39" height="15" frameX="-80" frameY="-67" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10028" x="282" y="1616" width="39" height="15" frameX="-80" frameY="-69" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10029" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10030" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10031" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10032" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10033" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10034" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10035" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10036" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10037" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10038" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10039" x="0" y="1616" width="199" height="145" frameX="-80" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10040" x="322" y="1616" width="44" height="168" frameX="-75" frameY="0" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10041" x="367" y="1616" width="39" height="100" frameX="-80" frameY="-28" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10042" x="408" y="1616" width="39" height="74" frameX="-80" frameY="-41" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10043" x="449" y="1616" width="92" height="50" frameX="-53" frameY="-43" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10044" x="542" y="1616" width="92" height="15" frameX="-53" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10045" x="636" y="1616" width="96" height="15" frameX="-51" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10046" x="636" y="1616" width="96" height="15" frameX="-51" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10047" x="733" y="1616" width="98" height="15" frameX="-50" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10048" x="733" y="1616" width="98" height="15" frameX="-50" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10049" x="833" y="1616" width="99" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10050" x="833" y="1616" width="99" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10051" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10052" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10053" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10054" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10055" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10056" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10057" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10058" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10059" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10060" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10061" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10062" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10063" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10064" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10065" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10066" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10067" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10068" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10069" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10070" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10071" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10072" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10073" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10074" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10075" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10076" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10077" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10078" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10079" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10080" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10081" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10082" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10083" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10084" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10085" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10086" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10087" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10088" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10089" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10090" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10091" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10092" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10093" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10094" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10095" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10096" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10097" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10098" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10099" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+	<SubTexture name="hank slice instance 10100" x="934" y="1616" width="100" height="15" frameX="-49" frameY="-68" frameWidth="199" frameHeight="168" />
+</TextureAtlas>

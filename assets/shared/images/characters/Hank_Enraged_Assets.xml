@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hank_Enraged_Assets.png">
+	
+	
+	<SubTexture name="hank pose attack0000" x="5" y="5" width="361" height="289" frameX="-7" frameY="0" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0001" x="371" y="5" width="517" height="281" frameX="-5" frameY="-24" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0002" x="894" y="5" width="356" height="272" frameX="0" frameY="-33" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0003" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0004" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0005" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0006" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0007" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose attack0008" x="1255" y="5" width="361" height="273" frameX="-1" frameY="-32" frameWidth="522" frameHeight="305" />
+	<SubTexture name="hank pose down0000" x="1621" y="5" width="380" height="248" frameX="0" frameY="-6" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0001" x="1621" y="5" width="380" height="248" frameX="0" frameY="-6" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0002" x="2007" y="5" width="379" height="251" frameX="0" frameY="-3" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0003" x="2007" y="5" width="379" height="251" frameX="0" frameY="-3" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0004" x="2391" y="5" width="365" height="254" frameX="-11" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0005" x="2391" y="5" width="365" height="254" frameX="-11" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0006" x="2761" y="5" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0007" x="3130" y="5" width="364" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0008" x="3130" y="5" width="364" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0009" x="3499" y="5" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0010" x="3499" y="5" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0011" x="5" y="299" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0012" x="5" y="299" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose down0013" x="5" y="299" width="363" height="254" frameX="-13" frameY="0" frameWidth="380" frameHeight="254" />
+	<SubTexture name="hank pose idle0000" x="373" y="299" width="348" height="305" frameX="0" frameY="-5" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0001" x="373" y="299" width="348" height="305" frameX="0" frameY="-5" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0002" x="727" y="299" width="344" height="305" frameX="-5" frameY="-5" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0003" x="727" y="299" width="344" height="305" frameX="-5" frameY="-5" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0004" x="1076" y="299" width="335" height="308" frameX="-12" frameY="-1" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0005" x="1076" y="299" width="335" height="308" frameX="-12" frameY="-1" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0006" x="1416" y="299" width="334" height="309" frameX="-13" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0007" x="1416" y="299" width="334" height="309" frameX="-13" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0008" x="1755" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0009" x="2094" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0010" x="2094" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0011" x="2434" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0012" x="2434" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose idle0013" x="2773" y="299" width="334" height="309" frameX="-12" frameY="0" frameWidth="348" frameHeight="309" />
+	<SubTexture name="hank pose left0000" x="3113" y="299" width="329" height="384" frameX="-4" frameY="-4" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0001" x="3113" y="299" width="329" height="384" frameX="-4" frameY="-4" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0002" x="3447" y="299" width="335" height="387" frameX="0" frameY="0" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0003" x="5" y="691" width="333" height="384" frameX="-2" frameY="-4" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0004" x="343" y="691" width="329" height="377" frameX="-7" frameY="-11" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0005" x="677" y="691" width="326" height="377" frameX="-9" frameY="-10" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0006" x="1009" y="691" width="326" height="378" frameX="-9" frameY="-9" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0007" x="1340" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0008" x="1340" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0009" x="1672" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0010" x="1672" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0011" x="2003" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0012" x="2003" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose left0013" x="2335" y="691" width="326" height="373" frameX="-9" frameY="-15" frameWidth="335" frameHeight="387" />
+	<SubTexture name="hank pose right0000" x="2666" y="691" width="450" height="319" />
+	<SubTexture name="hank pose right0001" x="2666" y="691" width="450" height="319" />
+	<SubTexture name="hank pose right0002" x="3122" y="691" width="394" height="298" frameX="-54" frameY="0" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0003" x="3521" y="691" width="394" height="297" frameX="-54" frameY="0" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0004" x="5" y="1080" width="386" height="297" frameX="-61" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0005" x="396" y="1080" width="386" height="296" frameX="-61" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0006" x="787" y="1080" width="382" height="296" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0007" x="1174" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0008" x="1174" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0009" x="1562" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0010" x="1562" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0011" x="1949" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0012" x="1949" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0013" x="2337" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0014" x="2337" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0015" x="2724" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0016" x="2724" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose right0017" x="2724" y="1080" width="382" height="294" frameX="-65" frameY="-1" frameWidth="450" frameHeight="319" />
+	<SubTexture name="hank pose up0000" x="3112" y="1080" width="383" height="349" frameX="-39" frameY="-40" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0001" x="3500" y="1080" width="378" height="349" frameX="-45" frameY="-40" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0002" x="5" y="1434" width="371" height="371" frameX="-53" frameY="-18" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0003" x="381" y="1434" width="396" height="371" frameX="-29" frameY="-18" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0004" x="782" y="1434" width="418" height="386" frameX="-11" frameY="-3" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0005" x="1205" y="1434" width="426" height="386" frameX="-3" frameY="-3" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0006" x="1636" y="1434" width="428" height="389" />
+	<SubTexture name="hank pose up0007" x="2070" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0008" x="2070" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0009" x="2466" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0010" x="2466" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0011" x="2862" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0012" x="2862" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+	<SubTexture name="hank pose up0013" x="2862" y="1434" width="391" height="389" frameX="-38" frameY="0" frameWidth="428" frameHeight="389" />
+</TextureAtlas>

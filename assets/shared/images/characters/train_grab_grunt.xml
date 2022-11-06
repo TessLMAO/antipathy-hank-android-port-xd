@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="train_grab_grunt.png">
+	
+	
+	<SubTexture name="train grab0000" x="0" y="0" width="464" height="304" frameX="-1" frameY="-4" frameWidth="464" frameHeight="320" />
+	<SubTexture name="train grab0001" x="464" y="0" width="464" height="295" frameX="-1" frameY="-5" frameWidth="464" frameHeight="320" />
+	<SubTexture name="train grab0002" x="0" y="304" width="464" height="290" frameX="-1" frameY="-3" frameWidth="464" frameHeight="320" />
+	<SubTexture name="train grab0003" x="464" y="304" width="463" height="318" frameX="0" frameY="0" frameWidth="464" frameHeight="320" />
+	<SubTexture name="train grab0004" x="0" y="622" width="462" height="316" frameX="0" frameY="-4" frameWidth="464" frameHeight="320" />
+	<SubTexture name="train grab0005" x="462" y="622" width="463" height="312" frameX="0" frameY="-4" frameWidth="464" frameHeight="320" />
+</TextureAtlas>

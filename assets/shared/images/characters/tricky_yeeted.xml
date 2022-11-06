@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tricky_yeeted.png">
+	
+	
+	<SubTexture name="Trickt yeeted0000" x="5" y="5" width="411" height="404" frameX="-837" frameY="-736" frameWidth="1250" frameHeight="1140" />
+	<SubTexture name="Trickt yeeted0001" x="422" y="5" width="507" height="414" frameX="-743" frameY="-684" frameWidth="1250" frameHeight="1140" />
+	<SubTexture name="Trickt yeeted0002" x="935" y="5" width="453" height="531" frameX="-654" frameY="-493" frameWidth="1250" frameHeight="1140" />
+	<SubTexture name="Trickt yeeted0003" x="1394" y="5" width="417" height="545" frameX="-396" frameY="-204" frameWidth="1250" frameHeight="1140" />
+	<SubTexture name="Trickt yeeted0004" x="5" y="556" width="469" height="445" frameX="0" frameY="0" frameWidth="1250" frameHeight="1140" />
+	<SubTexture name="Trickt yeeted0005" x="480" y="556" width="0" height="0" frameX="-675" frameY="-484" frameWidth="1250" frameHeight="1140" />
+</TextureAtlas>
