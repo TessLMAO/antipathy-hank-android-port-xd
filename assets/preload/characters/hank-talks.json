@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KNOCK IT OFFFFFFFFFFFFF"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "KNOCK IT OFFFFFFFFFFFFF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KNOWCXK IT OFFCCCFFF",
+	"position": [
+		80,
+		240
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		76
+	],
+	"camera_position": [
+		-220,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hank Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hank Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hank Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hank Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hank Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yabhank",
+	"position": [
+		-40,
+		230
+	],
+	"healthicon": "yabhank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		100
+	],
+	"camera_position": [
+		-60,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
